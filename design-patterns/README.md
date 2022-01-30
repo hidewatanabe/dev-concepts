@@ -10,6 +10,6 @@ Estou começando a construir como uma das resoluções do ano de 2022. Por enqua
 - [Singleton](singleton/)
 ### Estruturais
 ### Comportamentais
-- [Mediator](mediator)
+- [Mediator](mediator/)
 - [Observer](observer/)
 - [Strategy](strategy/)
