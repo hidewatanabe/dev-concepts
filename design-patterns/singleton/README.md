@@ -18,3 +18,8 @@ Criacional
 - *Permite um refinamento de operações e de representação.* A classe **Singleton** pode ter subclasses e é fácuil configurar uma aplicação com uma instância dessa classe estendida. Você pode configurar a aplicação com uma instância. Você pode configurar a aplicação com uma instância da classe q de que necessita em tempo de execução.
 - *Permite um número variävel de instâncias.* O padrão torna fácil mudar de idéia, usar a mesma abordagem para controlar o número de instâncias que a aplicação utiliza. Somente a operação que permite acesso à instância de **Singleton** necessita ser mudada.
 - *Mais flexível do que operações de classe.* Uma outra maneira de empacotar a funcionalidade de um **Singleton** é usando operações de classes (métodos estáticos). Porém, as técnicas das linguagens OO tornam difícil mudar um projeto para permitir mais que uma instância de uma classe. Além disso, os métodos estáticos nunca são virtuais, o que significa que as subclasses não podem redefini-las poliformicamente.
+
+## Padrões relacionados:
+- *Abstract Factory:* Pode ser implementado usando o padrão **Singleton**.
+- *Builder:* Pode ser implementado usando o padrão **Singleton**.
+- *Prototype:* Pode ser implementado usando o padrão **Singleton**.
