@@ -4,7 +4,7 @@
 Garantir que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma
 
 ## Tipo
-Criacional
+Criacional de objetos
 
 ## Motivação
 
