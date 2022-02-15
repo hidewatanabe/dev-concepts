@@ -1,0 +1,1 @@
+# Pensando em algum exemplo de negócio que faça sentido com o Prototype
