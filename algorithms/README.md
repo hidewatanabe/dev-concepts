@@ -1,7 +1,7 @@
 # Algoritmos! Melhor conhecer!
 
 Searching:
-1. Linear Search
+1. Linear Search    | Python    |
 2. Jump Search
 3. Binary Search
 4. DFS (Depth First Search)
