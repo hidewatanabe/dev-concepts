@@ -1,5 +1,6 @@
 # LINEAR SEARCH
-## 
+## It's a search based in a sequential search of elements in a vector or a list.
+## Complexity: O(n)
 
 def linear_search(list, element):
     for i in range(len(list)):
